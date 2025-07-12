@@ -1,2 +1,2 @@
 # leetcode-solutions
-Now embarking on solving leetcode problems from scratch
+Now starting to solve LeetCode problems from scratch.
